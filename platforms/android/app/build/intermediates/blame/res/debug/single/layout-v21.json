@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/layout-v21/notification_action.xml"
+    }
+]

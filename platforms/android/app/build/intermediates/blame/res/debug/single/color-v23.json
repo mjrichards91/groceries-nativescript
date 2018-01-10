@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]

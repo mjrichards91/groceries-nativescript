@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:3:2-38
+	android:versionName
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] /Users/mrichards/.android/build-cache/27f4fb637cd22eab9d760ce68db2e771168d5151/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/mrichards/.android/build-cache/c1a2b1efd37de98642f9a5cb396bc6e312ac93eb/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/567ca7a770e3f98cfc9f717742e44205655cd360/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/d46c9557217cace717d7dcf8aa63e35606a8d0ae/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mrichards/.android/build-cache/3392c550efec2dd199d15b168e8a769ad437bb44/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mrichards/.android/build-cache/88871b3e113b55619fe205ebd7392360516e8244/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mrichards/.android/build-cache/9ae6760a4b8ed052cdb60273f481db1c0b7ba6a0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/2718ceea1577bcbf7c874c9b6106a54121734610/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mrichards/.android/build-cache/fc347370d2f05d5d5280b4c8700e6972cfe418cf/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mrichards/.android/build-cache/5e8bcdab269dcbcd4753a7170e16f54a284ca90d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mrichards/.android/build-cache/e3da341b28ae8c1508100b0c8f2ac6563a248717/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/37e8f108709b364a40c04e054ca09310334ffa23/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:21:2-39:16
+MERGED from [:widgets-release:] /Users/mrichards/.android/build-cache/c1a2b1efd37de98642f9a5cb396bc6e312ac93eb/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/567ca7a770e3f98cfc9f717742e44205655cd360/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/d46c9557217cace717d7dcf8aa63e35606a8d0ae/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mrichards/.android/build-cache/88871b3e113b55619fe205ebd7392360516e8244/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mrichards/.android/build-cache/9ae6760a4b8ed052cdb60273f481db1c0b7ba6a0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/2718ceea1577bcbf7c874c9b6106a54121734610/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mrichards/.android/build-cache/fc347370d2f05d5d5280b4c8700e6972cfe418cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mrichards/.android/build-cache/5e8bcdab269dcbcd4753a7170e16f54a284ca90d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mrichards/.android/build-cache/e3da341b28ae8c1508100b0c8f2ac6563a248717/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/37e8f108709b364a40c04e054ca09310334ffa23/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:27:3-37:14
+	android:label
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:29:4-49
+	android:configChanges
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:30:4-65
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:28:4-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:32:5-36:20
+action#android.intent.action.MAIN
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:35:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:38:3-57
+	android:name
+		ADDED from /Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/AndroidManifest.xml:38:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/mrichards/.android/build-cache/b3be175adaadc595c9e7068cc177e659f27587b4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/567ca7a770e3f98cfc9f717742e44205655cd360/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/mrichards/.android/build-cache/d46c9557217cace717d7dcf8aa63e35606a8d0ae/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/mrichards/.android/build-cache/3392c550efec2dd199d15b168e8a769ad437bb44/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/mrichards/.android/build-cache/88871b3e113b55619fe205ebd7392360516e8244/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/mrichards/.android/build-cache/9ae6760a4b8ed052cdb60273f481db1c0b7ba6a0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/2718ceea1577bcbf7c874c9b6106a54121734610/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/mrichards/.android/build-cache/fc347370d2f05d5d5280b4c8700e6972cfe418cf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/mrichards/.android/build-cache/5e8bcdab269dcbcd4753a7170e16f54a284ca90d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/mrichards/.android/build-cache/e3da341b28ae8c1508100b0c8f2ac6563a248717/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/mrichards/.android/build-cache/37e8f108709b364a40c04e054ca09310334ffa23/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/AndroidManifest.xml:26:9-47

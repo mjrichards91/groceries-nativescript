@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_menu_delete.png",
+        "source": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/src/main/res/drawable-ldpi/ic_menu_delete.png"
+    }
+]

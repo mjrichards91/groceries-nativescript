@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/mrichards/Documents/Personal/Groceries/platforms/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/mrichards/.android/build-cache/48cc4c1ab4139147d194d86fa315cec54ff8e141/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
